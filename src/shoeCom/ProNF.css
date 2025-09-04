@@ -1,0 +1,19 @@
+.firstt{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px 30em;
+    /* height: 70vh; */
+}
+.firstt span{
+    font-size: 40px;
+    margin: 5px;
+}
+.firstt button{
+    background-color: black;
+    padding: 15px 25px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 15px 5px;
+}

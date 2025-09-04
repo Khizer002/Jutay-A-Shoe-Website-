@@ -1,0 +1,114 @@
+.inputBox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    position: sticky;
+    top: auto;
+    left: auto;
+    z-index: 99;
+}
+
+.inputBox button {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 20px;
+    background-color: white;
+    /* margin: 10px; */
+    padding: 8px;
+    width: 12%;
+    border-radius: 5px;
+    /* border: none; */
+    border-color: rgba(177, 176, 176, 0.1);
+    outline: none;
+    color: grey;
+    transform: translateX(-35px);
+}
+
+.inputBox button:hover {
+    border-color: rgb(24, 24, 24);
+    cursor: text;
+    transition: all 0.3s ease-in-out;
+}
+
+.image img {
+    height: 8rem;
+    transform: translateX(-93px);
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+}
+
+.icons span button {
+    border: none;
+    transform: translateY(-2px);
+    padding: 0 20px 0 0;
+}
+
+.overlay {
+    position: absolute;
+    top: -37px;
+    left: 0;
+    width: 100%;
+    height: 190px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+    background: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+    opacity: 0;
+    transform: translateY(-180px);
+    transition: all 0.3s ease-in-out;
+    z-index: 100;
+}
+
+.overlay.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.overlay input {
+    padding: 10px;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    outline: none;
+    font-size: 1rem;
+    color: black;
+}
+.overlay input::placeholder{
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: small;
+}
+
+.overlay span {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+    z-index: 90;
+}
+
+.backdrop.show {
+    opacity: 1;
+    /* pointer-events: auto; */
+}

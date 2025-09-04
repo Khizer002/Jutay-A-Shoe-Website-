@@ -1,0 +1,18 @@
+.main{
+    padding: 10px 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    font-weight: bolder;
+}
+.main span .nav-link{
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+}
+.main span .nav-link:hover{
+    text-decoration:underline;
+    text-decoration-thickness: 2px;
+}

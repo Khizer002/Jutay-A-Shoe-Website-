@@ -1,0 +1,46 @@
+import React from 'react'
+import './Women.css'
+import { Link } from 'react-router-dom'
+import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
+import data from "D:/React huxn/react-demos/src/shoes.json";
+
+const Women = () => {
+  const womenShoes = data.filter(shoe => shoe.type === "women");
+
+  return (
+    <div className='head-women'>
+      <div className='women-inner'>
+        <img src='https://cdn.shopify.com/s/files/1/0609/8416/4583/files/womens_shoes.webp?v=1676547263' alt='women'/>
+      </div>
+      <div className='women-text'>
+        <span>Women Sneakers</span>
+      </div>
+      
+      <div className='shoes'>
+        {womenShoes.map((shoe, index) => (
+          <Link
+            key={index}
+            to={`/product/${shoe.name}`}
+            style={{ textDecoration: 'none', color: 'black' }}
+          >
+            <div className='shoe-card'>
+              <img src={shoe.image} alt={shoe.name} />
+              <h4>{shoe.name.toUpperCase()}</h4>
+              <p>Rs. {shoe.price}</p>
+              <span>{shoe.sizes.join(', ')}</span>
+
+              <div className='shoe-actions'>
+                <span className='add-cart'>Add To Cart</span>
+                <span>
+                  <FavoriteBorderIcon />
+                </span>
+              </div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+export default Women

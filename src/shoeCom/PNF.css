@@ -1,0 +1,28 @@
+.headd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 65vh; 
+}
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.inner .bigIcon{
+    font-size: 80px;
+    margin: 5px;
+}
+.inner .shock{
+    font-size: 80px;
+    margin: 5px;
+}
+.inner button{
+    padding: 15px 25px;
+    background-color: black;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 5px;
+}

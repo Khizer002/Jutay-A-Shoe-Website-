@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding:0;
+}
+nav{
+    background-color: #c20606;
+    color: white;
+    padding: 1px 0;
+    cursor: pointer;
+}
+nav .first{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.social{
+    outline: none;
+    border: none;
+}
+.social a{
+    color: white;
+    text-decoration: none;
+    padding: 0 5px;
+}
+.social a svg{
+    height: 15px;
+    transform: translateY(2px);
+}
+
+
