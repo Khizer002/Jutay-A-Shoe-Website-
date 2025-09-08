@@ -1,0 +1,1985 @@
+[
+  { 
+    "id": 1, 
+    "name": "Nike Air Zoom - Black & White", 
+    "price": 12000, 
+    "image": "https://jutay.co/cdn/shop/files/27copy_13e5024a-6f75-4e85-8460-26068b84cd87.webp?v=1750831391&width=713", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "skechersAll"
+  },
+  { 
+    "id": 2, 
+    "name": "Adidas Ultraboost", 
+    "price": 14000, 
+    "image": "/img/adidas1.jpg", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "skechersAll"
+  },
+  { 
+    "id": 3, 
+    "name": "Aj 1 LOWS - Dark MOCHA", 
+    "price": 23000, 
+    "image": "https://jutay.co/cdn/shop/files/1_892394cd-6fb5-4a36-b597-2c638d5e7eaa.webp?v=1755867343&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "new-arrival1"
+  },
+  { 
+    "id": 4, 
+    "name": "Aj 1 HIGHS - MOCHA", 
+    "price": 23000, 
+    "image": "https://jutay.co/cdn/shop/files/100copy_75181dd2-35b7-4980-b7c8-67f4d1e333b9.webp?v=1755867392&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "new-arrival1"
+  },
+  { 
+    "id": 5, 
+    "name": "Aj 1 HIGHS - TRAVIS MOCHA", 
+    "price": 23000, 
+    "image": "https://jutay.co/cdn/shop/files/3_cfda1333-1ea1-49c1-ac22-832d7d9a564b.webp?v=1755867421&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "new-arrival1"
+  },
+  { 
+    "id": 6, 
+    "name": "Aj 6 - BRITISH KHAKI", 
+    "price": 23000, 
+    "image": "https://jutay.co/cdn/shop/files/2_0a738122-c190-4a18-be34-c4ee4bac945d.webp?v=1755867532&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "new-arrival1"
+  },
+  { 
+    "id": 7, 
+    "name": "Aj 6 - OLIVE", 
+    "price": 23000, 
+    "image": "https://jutay.co/cdn/shop/files/5_a594b996-8a17-4a1f-a0c6-9b8a5e0363f3.webp?v=1755867624&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "new-arrival1"
+  },
+  { 
+    "id": 8, 
+    "name": "Cloud Foam - Black White", 
+    "price": 4999, 
+    "image": "https://jutay.co/cdn/shop/files/7_3_copy.webp?v=1750914613&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "slides"
+  },
+  { 
+    "id": 9, 
+    "name": "Cloud Foam - Full Black", 
+    "price": 4999, 
+    "image": "https://jutay.co/cdn/shop/files/8_3_copy.webp?v=1750914520&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "slides"
+  },
+  { 
+    "id": 10, 
+    "name": "Cloud Foam - Grey Red", 
+    "price": 4999, 
+    "image": "https://jutay.co/cdn/shop/files/9_3_copy.webp?v=1750914429&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "slides"
+  },
+  { 
+    "id": 11, 
+    "name": "Cloud Foam - Army Green", 
+    "price": 4999, 
+    "image": "https://jutay.co/cdn/shop/files/10_3_copy.webp?v=1750914462&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "slides"
+  },
+  { 
+    "id": 12, 
+    "name": "Adi All Logo Cloud Foam - Grey", 
+    "price": 4999, 
+    "image": "https://jutay.co/cdn/shop/files/4_3_copy.webp?v=1750914310&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45, 46], 
+    "type": "slides"
+  },
+  { 
+    "id": 13, 
+    "name": "Skechers Max Cushion - Navy", 
+    "price": 8999, 
+    "image": "https://jutay.co/cdn/shop/files/47copy_ced50d49-ed63-42c1-ab95-c03331884a0b.webp?v=1747651427&width=1946", 
+    "sizes": [42, 43], 
+    "type": "skechers"
+  },
+  { 
+    "id": 14, 
+    "name": "Skechers Max Cushion - Grey", 
+    "price": 8999, 
+    "image": "https://jutay.co/cdn/shop/files/62copy_e6c13ebe-bbb4-40df-989b-f991cd747a68.webp?v=1747651521&width=1946", 
+    "sizes": [40, 44, 45], 
+    "type": "skechers"
+  },
+  { 
+    "id": 15, 
+    "name": "Skechers Max Cushion - Beige", 
+    "price": 8999, 
+    "image": "https://jutay.co/cdn/shop/files/193copy_f5af9a4e-e1c3-4da9-bd96-c50bc5d8bdf7.webp?v=1747652018&width=1946", 
+    "sizes": [40, 43], 
+    "type": "skechers"
+  },
+  { 
+    "id": 16, 
+    "name": "Skechers Arch Fit - Navy", 
+    "price": 8999, 
+    "image": "https://jutay.co/cdn/shop/files/87copy_b0971141-d4e3-4d85-a364-b4588e68047e.webp?v=1747650937&width=1946", 
+    "sizes": [45], 
+    "type": "skechers"
+  },
+  { 
+    "id": 17, 
+    "name": "Skechers Arch Fit - All Black", 
+    "price": 8999, 
+    "image": "https://jutay.co/cdn/shop/files/82copy_0db6c018-2425-4227-af9a-37724df2e310.webp?v=1747651209&width=1946", 
+    "sizes": [40, 42, 44, 45], 
+    "type": "skechers"
+  },
+  { 
+    "id": 18, 
+    "name": "Novablast 4 - Teal", 
+    "price": 14999, 
+    "image": "https://jutay.co/cdn/shop/files/11copy_c588e0e3-6603-47c8-8b5e-5c9dc15e7a31.webp?v=1753334121&width=1946", 
+    "sizes": [40, 43], 
+    "type": "runners"
+  },
+  { 
+    "id": 19, 
+    "name": "Novablast 4 - Platinum Black", 
+    "price": 14999, 
+    "image": "https://jutay.co/cdn/shop/files/16copy_406fe66e-ee4a-47fd-9a0d-1521dc6bb8bb.webp?v=1753334045&width=1946", 
+    "sizes": [40], 
+    "type": "runners"
+  },
+  { 
+    "id": 20, 
+    "name": "Novablast 4 - Platinum Navy", 
+    "price": 14999, 
+    "image": "https://jutay.co/cdn/shop/files/21copy_88807816-1747-467a-b000-f49bbe3a4615.webp?v=1753333997&width=1946", 
+    "sizes": [40, 43], 
+    "type": "runners"
+  },
+  { 
+    "id": 21, 
+    "name": "Invincible Run 3 - Electric White", 
+    "price": 13500, 
+    "image": "https://jutay.co/cdn/shop/files/1copy_41d90463-981a-43f2-8c6f-2e8a3e459787.webp?v=1753333929&width=1946", 
+    "sizes": [40, 42, 43, 44, 45], 
+    "type": "runners"
+  },
+  { 
+    "id": 22, 
+    "name": "Invincible Run 3 - Noise Aqua", 
+    "price": 13500, 
+    "image": "https://jutay.co/cdn/shop/files/26copy_0d15ba8a-b1df-4c12-ab7d-afdb6e181680.webp?v=1753333884&width=1946", 
+    "sizes": [40, 41, 42, 43, 44, 45], 
+    "type": "runners"
+  },
+  { 
+    "id": 23, 
+    "name": "Handball Spezial - Red", 
+    "price": 13499, 
+    "image": "https://jutay.co/cdn/shop/files/31copy_34642ea5-4092-4235-8929-73afa7bd7865.webp?v=1737108286&width=713", 
+    "sizes": [36, 38, 39, 40, 41], 
+    "type": "spezial"
+  },
+  { 
+    "id": 24, 
+    "name": "Spezial - Sky Blue", 
+    "price": 13499, 
+    "image": "https://jutay.co/cdn/shop/files/16copy_341775bc-7678-4e80-baed-4dda4443cbb5.webp?v=1744364037&width=1946", 
+    "sizes": [37], 
+    "type": "spezial"
+  },
+  { 
+    "id": 25, 
+    "name": "Spezial - Aluminum Black", 
+    "price": 13499, 
+    "image": "https://jutay.co/cdn/shop/files/26copy_71f81cb7-9de0-46f3-aab6-3f5da389fc71.webp?v=1746119115&width=600", 
+    "sizes": [37, 38, 39, 40], 
+    "type": "spezial"
+  },
+  { 
+    "id": 26, 
+    "name": "Onitsuka Tiger Mexico 66 - Black", 
+    "price": 9999, 
+    "image": "https://jutay.co/cdn/shop/files/21_copy_61a756f7-f246-4e11-9d27-ad967b10488e.webp?v=1754480395&width=713", 
+    "sizes": [40, 41, 42, 43, 44, 45], 
+    "type": "spezial"
+  },
+  { 
+    "id": 27, 
+    "name": "Onitsuka Tiger Mexico 66 - Yellow", 
+    "price": 14999, 
+    "image": "https://jutay.co/cdn/shop/files/14copy_0b535c03-e4fc-464c-8686-764ef777163c.webp?v=1721987145&width=600", 
+    "sizes": [40, 41, 42, 43, 44, 45], 
+    "type": "spezial"
+  },{
+    "id": 28,
+    "name": "OW TShirt - Black (JU 123)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0547copy.webp?v=1753677437&width=600",
+    "sizes": ["S", "L", "XL", "XXL"],
+    "type": "t-shirts"
+  },
+  {
+    "id": 29,
+    "name": "OW TShirt - Black (JU 124)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0550copy.webp?v=1753677551&width=360",
+    "sizes": ["S", "M", "L", "XXL"],
+    "type": "t-shirts"
+  },
+  {
+    "id": 30,
+    "name": "OW TShirt - White (JU 124)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0563copy.webp?v=1753677609&width=360",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts"
+  },
+  {
+    "id": 31,
+    "name": "HR TShirt - Black (JU 125)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0551copy_740cd8a0-6f1b-445c-ad0f-891b58d5eb05.webp?v=1753677699&width=360",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts",
+    "status": "sold_out"
+  },
+  {
+    "id": 32,
+    "name": "HG TShirt - Black White (JU 126)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0553copy.webp?v=1753677830&width=360",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts"
+  },
+  {
+    "id": 33,
+    "name": "AJ 1 LOWS - LIGHT SMOKE GREY",
+    "price": 5999,
+    "originalPrice": 8500,
+    "discount": "-29%",
+    "image": "https://jutay.co/cdn/shop/files/7_copy_35e009eb-a08c-4e3e-b5b9-d770081ba32b.webp?v=1749106295&width=713",
+    "sizes": [36],
+    "type": "women"
+  },
+  {
+    "id": 34,
+    "name": "AJ 1 LOWS - SMOKE GREY (RED)",
+    "price": 6499,
+    "originalPrice": 7500,
+    "discount": "-13%",
+    "image": "https://jutay.co/cdn/shop/files/22_copy_4d3e9b1f-7e3a-4ceb-8e05-52e0f6a76d21.webp?v=1749106389&width=713",
+    "sizes": [36, 37],
+    "type": "women"
+  },
+  {
+    "id": 35,
+    "name": "AJ 1 LOWS - GYM RED (WOMEN)",
+    "price": 5999,
+    "originalPrice": 7500,
+    "discount": "-20%",
+    "image": "https://jutay.co/cdn/shop/files/17_copy_1bfc61eb-e819-4047-80ae-be8a86186902.webp?v=1749106470&width=713",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 36,
+    "name": "AJ 1 LOWS - UNC",
+    "price": 5999,
+    "originalPrice": 8500,
+    "discount": "-29%",
+    "image": "https://jutay.co/cdn/shop/files/12_copy_b0614dd3-4bf7-48fe-8155-1164d47245c3.webp?v=1749106432&width=713",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 37,
+    "name": "GOLDEN GOOSE - GOLD...",
+    "price": 14999,
+    "originalPrice": 19999,
+    "discount": "-25%",
+    "image": "https://jutay.co/cdn/shop/files/67copy_c8490dd2-ee59-4069-96e9-571f3e701d3f.webp?v=1750832106&width=600",
+    "sizes": [37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 38,
+    "name": "GOLDEN GOOSE - LIGHT",
+    "price": 14999,
+    "originalPrice": 19999,
+    "discount": "-25%",
+    "image": "https://jutay.co/cdn/shop/files/9copy_7a3781e8-3987-439c-b5a8-86e03880c80d.webp?v=1751457566&width=713",
+    "sizes": [38],
+    "type": "women"
+  },
+  {
+    "id": 39,
+    "name": "GOLDEN GOOSE - SILVER",
+    "price": 14999,
+    "originalPrice": 19999,
+    "discount": "-25%",
+    "image": "https://jutay.co/cdn/shop/files/62copy_4f2a03dd-8616-4133-85eb-d9c5f3d1ca59.webp?v=1750832046&width=713",
+    "sizes": [37, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 40,
+    "name": "HANDBALL SPEZIAL - RED",
+    "price": 13499,
+    "originalPrice": 18500,
+    "discount": "-27%",
+    "image": "https://jutay.co/cdn/shop/files/31copy_34642ea5-4092-4235-8929-73afa7bd7865.webp?v=1737108286&width=713",
+    "sizes": [36, 38, 39, 40, 41],
+    "type": "women"
+  },
+  {
+    "id": 41,
+    "name": "SPEZIAL - ALUMINUM BLACK",
+    "price": 13499,
+    "originalPrice": 18500,
+    "discount": "-27%",
+    "image": "https://jutay.co/cdn/shop/files/26copy_71f81cb7-9de0-46f3-aab6-3f5da389fc71.webp?v=1746119115&width=713",
+    "sizes": [37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 42,
+    "name": "SPEZIAL - EARTH",
+    "price": 13499,
+    "originalPrice": 18500,
+    "discount": "-27%",
+    "image": "https://jutay.co/cdn/shop/files/21copy_a33547cc-105d-46e4-b485-52177678893c.webp?v=1746765673&width=713",
+    "sizes": [37, 38, 39, 40],
+    "type": "women",
+    "status": "sold_out"
+  },
+  {
+    "id": 43,
+    "name": "SPEZIAL - SKY BLUE",
+    "price": 13499,
+    "originalPrice": 18500,
+    "discount": "-27%",
+    "image": "https://jutay.co/cdn/shop/files/16copy_341775bc-7678-4e80-baed-4dda4443cbb5.webp?v=1744364037&width=713",
+    "sizes": [37],
+    "type": "women"
+  },
+  {
+    "id": 44,
+    "name": "SAMBA - MAROON",
+    "price": 14999,
+    "originalPrice": 18500,
+    "discount": "-18%",
+    "image": "https://jutay.co/cdn/shop/files/31copy_4cf6286c-4174-4461-b584-f6d9fbda2135.webp?v=1744355878&width=713",
+    "sizes": [38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 45,
+    "name": "SAMBA - SUEDE GREEN",
+    "price": 14999,
+    "originalPrice": 18500,
+    "discount": "-18%",
+    "image": "https://jutay.co/cdn/shop/files/36copy_5ea1237c-4e94-4963-91fa-bd49c88ab434.webp?v=1744354086&width=713",
+    "sizes": [37, 38, 39],
+    "type": "women"
+  },
+  {
+    "id": 46,
+    "name": "SAMBA - JJJJOUND WHITE",
+    "price": 14999,
+    "originalPrice": 18500,
+    "discount": "-18%",
+    "image": "https://jutay.co/cdn/shop/files/46copy_a5f49e30-d1cc-44a9-9bcf-b34adfdf2916.webp?v=1744353905&width=713",
+    "sizes": [43],
+    "type": "women"
+  },
+  {
+    "id": 47,
+    "name": "SAMBA - FOREST GREEN",
+    "price": 13500,
+    "originalPrice": 18500,
+    "discount": "-27%",
+    "image": "https://jutay.co/cdn/shop/files/41copy_bb9b94e9-9523-4e24-8bdd-60b9b37840d5.webp?v=1744353994&width=600",
+    "sizes": [37, 38, 40],
+    "type": "women"
+  },
+  {
+    "id": 48,
+    "name": "SAMBA X STUSSY - BLACK WHITE",
+    "price": 13500,
+    "originalPrice": 17500,
+    "discount": "-22%",
+    "image": "https://jutay.co/cdn/shop/files/35copy_6e86b66a-16a2-4054-8cbe-d33117114105.webp?v=1737107885&width=713",
+    "sizes": [37, 41, 44],
+    "type": "women"
+  },
+  {
+    "id": 49,
+    "name": "SAMBA - EARTH STRATA GUM",
+    "price": 14999,
+    "originalPrice": 17500,
+    "discount": "-14%",
+    "image": "https://jutay.co/cdn/shop/files/19copy_809ee23e-7430-4ca2-9df9-1cabf51c9b85.webp?v=1737108030&width=713",
+    "sizes": [40,41],
+    "type": "women"
+  },
+  {
+    "id": 50,
+    "name": "SAMBA PONY - RED TEXTURED",
+    "price": 13499,
+    "originalPrice": 15000,
+    "discount": "-10%",
+    "image": "https://jutay.co/cdn/shop/files/147copy_9fee7d1f-671d-46df-8a06-b29f4403ecd6.webp?v=1750834944&width=713",
+    "sizes": [38],
+    "type": "women"
+  },
+  {
+    "id": 51,
+    "name": "SAMBA - STUSSY GREEN",
+    "price": 13499,
+    "originalPrice": 17500,
+    "discount": "-22%",
+    "image": "https://jutay.co/cdn/shop/files/27copy_a07519cb-0141-4048-aa3a-c4ef86d3ff63.webp?v=1737108230&width=713",
+    "sizes": [36, 37, 39],
+    "type": "women"
+  },
+  {
+    "id": 52,
+    "name": "SAMBA - COLLEGIATE GREEN",
+    "price": 12499,
+    "originalPrice": 17500,
+    "discount": "-28%",
+    "image": "https://jutay.co/cdn/shop/files/23copy_aba0ad69-db36-439c-8d06-901a82a06d07.webp?v=1737108163&width=713",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 53,
+    "name": "SAMBA WALES B - PONY LEO",
+    "price": 13500,
+    "originalPrice": 17500,
+    "discount": "-28%",
+    "image": "https://jutay.co/cdn/shop/files/2copy_ddcfc5ad-96d3-4628-b56b-517780aa473e.webp?v=1740662712&width=713",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 54,
+    "name": "SAMBA - WHITE BLACK GUM (WOMEN'S)",
+    "price": 12499,
+    "originalPrice": 17500,
+    "discount": "-28%",
+    "image": "https://jutay.co/cdn/shop/files/33copy_07c7b999-9ad5-4f7c-aacb-138f81c79c50.webp?v=1740848649&width=600",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "women"
+  },
+  {
+    "id": 53,
+    "name": "AM 720 - BLACK WHITE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/79copy_bdedcfb5-3f16-47d2-8109-a0e6384aabd8.webp?v=1755867716&width=713",
+    "sizes": [41, 42, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 54,
+    "name": "AM 720 - ALL BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/26copy_e61b1161-ab41-4753-b0aa-3a4d536cbf7f.webp?v=1755867784&width=493",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 55,
+    "name": "ON CLOUD 3 - ALL BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/44copy_74f145a4-9227-41c0-99eb-66337d01aca3.webp?v=1755867899&width=493",
+    "sizes": [37, 39, 40, 41, 42, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 56,
+    "name": "REACTX REJUVEN 8 - GREEN STRIKE",
+    "price": 9999,
+    "image": "https://jutay.co/cdn/shop/files/20_5_copy.webp?v=1755086859&width=493",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 57,
+    "name": "REACTX REJUVEN 8 - TRIPLE BLACK",
+    "price": 9999,
+    "image": "https://jutay.co/cdn/shop/files/21_1_copy.webp?v=1755086975&width=493",
+    "sizes": [40, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 58,
+    "name": "PUREBOOST 5 - WHITE DUO",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/89copy_c2ec5167-092f-47bb-bfdc-40983b1d5357.webp?v=1755090518&width=493",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 59,
+    "name": "ADIOS PRO 4 RM - ALUMINA CINDER",
+    "price": 17500,
+    "image": "https://jutay.co/cdn/shop/files/29_1_copy.webp?v=1754996792&width=493",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 60,
+    "name": "ADIOS PRO 4 RM - ASH BLUE",
+    "price": 17500,
+    "image": "https://jutay.co/cdn/shop/files/30_1_copy.webp?v=1754997011&width=493",
+    "sizes": [41, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 61,
+    "name": "ALFA SAVAGE - GREY BLUE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/41_1_copy.webp?v=1754997398&width=493",
+    "sizes": [40, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 62,
+    "name": "NOVABLAST 5 - ALL BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/23_1_copy.webp?v=1754997671&width=493",
+    "sizes": [40, 41, 42, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 63,
+    "name": "NOVABLAST 5 - ILLUSION BLUE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/31_1_copy.webp?v=1754997900&width=493",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 64,
+    "name": "NOVABLAST 5 - TUNA BLUE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/39_copy_71a14f60-20be-4c08-a16e-fccb6af97162.webp?v=1755089785&width=493",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 65,
+    "name": "GEL KAYANO 31 - DIGITAL AQUA",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/11_copy_515b36e7-902e-442d-9063-2b139265a8b0.webp?v=1755088309&width=1946",
+    "sizes": [41, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 66,
+    "name": "GEL KAYANO 31 - GLACIER GREY",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/1_copy_6b6836c8-0110-476b-9516-b857becdeae8.webp?v=1755087866&width=493",
+    "sizes": [40, 41, 42],
+    "type": "new-arrival"
+  },
+  {
+    "id": 67,
+    "name": "MIU MIU NB 530 - BROWN",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/35_1_copy.webp?v=1754998631&width=493",
+    "sizes": [37, 38, 39, 40],
+    "type": "new-arrival"
+  },
+  {
+    "id": 68,
+    "name": "GEL NIMBUS 27 - ALL BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/59_copy_578387db-5c0c-4fff-a329-615b80737f9a.webp?v=1755090133&width=493",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 69,
+    "name": "GEL NIMBUS 27 - BLACK TEAL",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/16_copy_ea870544-72cd-444b-a282-77c4b7caf0c5.webp?v=1755088382&width=493",
+    "sizes": [41, 42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 70,
+    "name": "ADIZERO EVO SL - BLACK GREY",
+    "price": 17500,
+    "image": "https://jutay.co/cdn/shop/files/25_1_copy.webp?v=1754999670&width=713",
+    "sizes": [42, 43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 71,
+    "name": "ADIZERO EVO SL - BLACK WHITE",
+    "price": 17500,
+    "image": "https://jutay.co/cdn/shop/files/25_5_copy.webp?v=1754999670&width=360",
+    "sizes": [41, 42, 43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 72,
+    "name": "ADIZERO EVO SL - WHITE BLACK",
+    "price": 17500,
+    "image": "https://jutay.co/cdn/shop/files/26_5_copy_b3a8fbf6-759d-4292-9bc9-6c426ff117fd.webp?v=1754999774&width=360",
+    "sizes": [41, 43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 73,
+    "name": "ADIZERO EVO SL - SILVER METALLIC",
+    "price": 17500,
+    "image": "https://jutay.co/cdn/shop/files/16_5_copy.webp?v=1755000201&width=360",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 74,
+    "name": "ADISTAR 3 - BLACK REFLECTIVE",
+    "price": 13999,
+    "image": "https://jutay.co/cdn/shop/files/32_1_copy.webp?v=1755000439&width=360",
+    "sizes": [42],
+    "type": "new-arrival"
+  },
+  {
+    "id": 75,
+    "name": "VOMERO 18 - WHITE COCONUT",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/14_5_copy_0974c2dc-0640-4c28-9b60-afc13a9658fc.webp?v=1755001155&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 76,
+    "name": "UA PHANTOM 4 - GREY",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/27_1_copy.webp?v=1755001907&width=360",
+    "sizes": [42],
+    "type": "new-arrival"
+  },
+  {
+    "id": 77,
+    "name": "UA PHANTOM 4 - D GREY",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/33_5_copy.webp?v=1755002111&width=360",
+    "sizes": [41, 42],
+    "type": "new-arrival"
+  },
+  {
+    "id": 78,
+    "name": "ON CLOUD SURFER NEXT - WHITE BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/19_5_copy.webp?v=1755002215&width=360",
+    "sizes": [42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 79,
+    "name": "ON CLOUD SURFER NEXT - BLACK WHITE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/85copy_4f4ec21c-230d-46db-8cc6-23a2715eac25.webp?v=1755090493&width=360",
+    "sizes": [41, 42, 43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 80,
+    "name": "ON CLOUD 3 - WHITE BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/17_5_copy.webp?v=1755003782&width=360",
+    "sizes": [37, 38, 40, 41, 42, 43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 81,
+    "name": "ON CLOUD SWIFT 4 - GREY",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/28_5_copy.webp?v=1755003983&width=360",
+    "sizes": [41, 42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 82,
+    "name": "ON CLOUD 5 - WOLF GREY",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/34_5_copy.webp?v=1755004188&width=360",
+    "sizes": [42],
+    "type": "new-arrival"
+  },
+  {
+    "id": 83,
+    "name": "ON CLOUD X LOWE - WHITE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/13_5_copy.webp?v=1755004367&width=360",
+    "sizes": [40],
+    "type": "new-arrival"
+  },
+  {
+    "id": 84,
+    "name": "ON CLOUD 5 - STORM BLUE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/33copy_d4e213e8-0024-4ac7-8b3d-0889432bd65a.webp?v=1751030687&width=360",
+    "sizes": [43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 85,
+    "name": "ON CLOUD 5 - CHOCOLATE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/43copy_0574952a-2411-4f80-a229-9e8beb9a3ab5.webp?v=1751030721&width=360",
+    "sizes": [40, 41, 42, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 86,
+    "name": "ON CLOUD MONSTER 2 - BLACK WHITE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/73_copy_9249ef4c-65d1-4416-8d7a-7cd5604315e9.webp?v=1751030844&width=360",
+    "sizes": [41, 42, 43, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 87,
+    "name": "ON CLOUD FLYER 4 - BLACK WHITE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/58copy_02ed84f2-c130-4d0d-9ac5-ab09f9f0e657.webp?v=1751030913&width=360",
+    "sizes": [42],
+    "type": "new-arrival"
+  },
+  {
+    "id": 88,
+    "name": "ON CLOUD MONSTER 2 - WHITE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/38copy_c2a64e73-75b7-45bc-b39a-108b67a2f30b.webp?v=1751030801&width=360",
+    "sizes": [43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 89,
+    "name": "CAMPUS - LIGHT GREY ( REAL SUEDE)",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/40_5_copy.webp?v=1754913909&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 90,
+    "name": "CAMPUS - BROWN ( REAL SUEDE)",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/9_5_copy_53eaa69f-8a9d-404a-8eae-2c5d19b3169b.webp?v=1754913963&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 91,
+    "name": "CAMPUS - MEDIUM GREY ( REAL SUEDE)",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/36_5_copy.webp?v=1754913976&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 92,
+    "name": "CAMPUS - CARBON BLACK ( REAL SUEDE)",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/8_5_copy_0b4b606b-9e09-4c0f-af7d-35922ec24a41.webp?v=1754914018&width=360",
+    "sizes": [40, 42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 93,
+    "name": "UA PHANTOM SE 3 - BLACK CAMO",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/75copy_673bc38e-ba81-4202-b10d-e88560cdaac7.webp?v=1755090397&width=360",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 94,
+    "name": "UA PHANTOM SE 3 - BLACK GREY",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/7_copy_050ec6a0-52b8-46a0-ba39-68d4a76b987b.webp?v=1755088126&width=360",
+    "sizes": [40, 41, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 95,
+    "name": "SAMBA - WHITE",
+    "price": 12999,
+    "image": "https://jutay.co/cdn/shop/files/15_5_copy.webp?v=1754913255&width=360",
+    "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 98,
+    "name": "SAMBA - WHITE BLACK GUM (MEN'S)",
+    "price": 11999,
+    "image": "https://jutay.co/cdn/shop/files/35copy_05995f9e-3812-40db-ad15-b0a3cfd9400d.webp?v=1740848649&width=360",
+    "sizes": [40, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 99,
+    "name": "SPEEDCAT ARCHIVE - HAUTE COFFEE",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/48copy_525223ae-4ac6-4e61-99ee-a627c8a69dba.webp?v=1739797084&width=360",
+    "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 100,
+    "name": "SPEEDCAT ARCHIVE - BLACK",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/57copy_c1dbaaf0-06a6-4db1-95a1-aa1dfb1ecf81.webp?v=1739797230&width=360",
+    "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 101,
+    "name": "BLAZER LOWS - 77 VINTAGE",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/8copy_addab2de-ccb4-4a54-9dd3-c0e0e2a54b2e.webp?v=1722076167&width=360",
+    "sizes": [40, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 102,
+    "name": "BLAZER MIDS - VINTAGE",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/10copy_3d9447f0-3265-4b67-8028-58048da17bbc.webp?v=1722231641&width=360",
+    "sizes": [40, 41, 42, 43],
+    "type": "new-arrival"
+  },
+  {
+    "id": 103,
+    "name": "DUNK LOW - JARRITOS",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/34copy_663e4522-2b18-4568-a7b3-5e0d010d3a32.webp?v=1729686533&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 104,
+    "name": "DUNK LOW - BATMAN X JOKER",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/12copy_33409536-8f95-437a-95e5-6bf2e2189f35.webp?v=1733894148&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 105,
+    "name": "DUNK LOW - GREY FOG",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/50copy_af5ad689-a544-433c-9c88-3cd12b83d681.webp?v=1736306263&width=360",
+    "sizes": [36, 38, 40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 106,
+    "name": "AJ 1 LOW - SMOKE GREY (RED) PREMIUM",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/10copy_1276e1fe-5e41-4a5a-ad1a-a511e3f577cc.webp?v=1709297722&width=360",
+    "sizes": [42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 107,
+    "name": "AJ 1 LOWS - PARIS (PREMIUM)",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/18copy_71b2c675-b908-4f18-97f3-a65480057bc3.webp?v=1730480647&width=360",
+    "sizes": [37, 38, 39, 40, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 108,
+    "name": "AJ 1 LOWS - ZION",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/118copy_17531ecb-e5d5-46e6-8d29-fd3e764cec14.webp?v=1750834748&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 109,
+    "name": "AJ 1 LOWS - MYSTIC GREEN",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/172copy_c50f8cfe-f255-41b0-b210-a044829f4d60.webp?v=1733113654&width=360",
+    "sizes": [40, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 110,
+    "name": "AJ 1 LOWS - DIOR ( PRM )",
+    "price": 13499,
+    "image": "https://jutay.co/cdn/shop/files/35copy_0d2c26b8-ab8f-4148-8698-106303b63767.webp?v=1730480651&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 111,
+    "name": "AJ 1 LOW - PASTEL PLUM",
+    "price": 13499,
+    "image": "https://jutay.co/cdn/shop/files/16_a76390df-26c4-4f1e-a2e9-8637f2dea5d1.webp?v=1727245508&width=360",
+    "sizes": [37, 38, 39, 40],
+    "type": "new-arrival"
+  },
+  {
+    "id": 112,
+    "name": "AJ 1 LOWS - DARK MOCHA ( TRAVIS )",
+    "price": 7999,
+    "image": "https://jutay.co/cdn/shop/files/30_copy_fc4bccde-85b2-4fa5-832e-b288a9a4df7b.webp?v=1755493473&width=360",
+    "sizes": [40, 41, 42, 43, 44],
+    "type": "new-arrival"
+  },
+  {
+    "id": 113,
+    "name": "AJ 1 LOWS - TRAVIS DARK MOCHA (PRM)",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/62copy.webp?v=1711102154&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 114,
+    "name": "AJ 1 LOW - PURPLE COURTS (PREMIUM)",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/26copy_9e9cafe7-8581-4a91-b3c0-ecadfe1c16fd.webp?v=1695904004&width=360",
+    "sizes": [37, 38, 39, 40],
+    "type": "new-arrival"
+  },
+  {
+    "id": 115,
+    "name": "AJ 1 LOWS - PHANTOM (HIGH QUALITY)",
+    "price": 13499,
+    "image": "https://jutay.co/cdn/shop/files/46_c72e597a-2b89-4783-a73e-d3d77da20fbe.webp?v=1692339673&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 116,
+    "name": "AJ 1 HIGHS - ZION",
+    "price": 14999,
+    "image": "https://jutay.co/cdn/shop/files/2.jpg?v=1713761918&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 117,
+    "name": "AJ 1 HIGHS - LOST & FOUND (CHICAGO PRM)",
+    "price": 13499,
+    "image": "https://jutay.co/cdn/shop/files/48copy_09f415a3-b15f-4de3-aea6-5f2ec7b0cb93.webp?v=1750831742&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 118,
+    "name": "AJ 1 HIGHS - UNIVERSITY BLUE (PREMIUM)",
+    "price": 13499,
+    "image": "https://jutay.co/cdn/shop/files/3copy_36202fb5-a5f8-4d5e-ac02-a4f9a53decbd.webp?v=1750916998&width=360",
+    "sizes": [38, 40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 119,
+    "name": "AJ 1 HIGHS - DIOR (PRM)",
+    "price": 13499,
+    "image": "https://jutay.co/cdn/shop/files/32copy_68af2233-c15a-420b-a24d-960a24e9ab09.webp?v=1737116878&width=360",
+    "sizes": [40, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 120,
+    "name": "AJ 1 HIGHS - HYPER ROYAL",
+    "price": 13999,
+    "image": "https://jutay.co/cdn/shop/files/9copy_51457b3f-d0de-4360-a36d-6d3aed7adffc.webp?v=1740848650&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 121,
+    "name": "AJ 1 HIGHS - PANDA (PREMIUM)",
+    "price": 13500,
+    "image": "https://jutay.co/cdn/shop/files/98copy.webp?v=1711101530&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45, 46],
+    "type": "new-arrival"
+  },
+  {
+    "id": 122,
+    "name": "TIGER MEXICO 66 - GREY WHITE",
+    "price": 12500,
+    "image": "https://jutay.co/cdn/shop/files/105copy_63aed3ed-7734-4f33-91b2-1833d30e1b45.webp?v=1739797682&width=360",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "new-arrival"
+  },
+  {
+    "id": 123,
+    "name": "BALMA LOAFER- BLACK (LEATHER)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/131copy_e4e46a9a-6f1d-4b0a-9bef-1efc6d97e4c5.webp?v=1755866978&width=713",
+    "sizes": [41, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 124,
+    "name": "FEN LOAFER- BLACK (LEATHER)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/128copy_ba888d17-fc7a-4c64-b831-d58d965a3670.webp?v=1755866903&width=713",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 125,
+    "name": "BALMAI LOAFER- BLACK (LEATHER)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/137copy_f7121ba1-eafb-43d2-8d05-5ee8a47eb209.webp?v=1755866797&width=360",
+    "sizes": [41, 42, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 126,
+    "name": "L V LOAFER- BLACK (LEATHER EMBOS)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/142copy_69bda3e9-f7e7-4533-bfb8-2726be5a9df3.webp?v=1755865266&width=713",
+    "sizes": [42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 127,
+    "name": "L V LOAFER- BROWN (LEATHER)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/148copy_0ae34a0b-330a-4177-af92-f85958270d40.webp?v=1755864430&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 128,
+    "name": "L V LOAFER- BROWN (SUEDE)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/137copy_f7121ba1-eafb-43d2-8d05-5ee8a47eb209.webp?v=1755866797&width=360",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 129,
+    "name": "L V LOAFER- BLACK (SUEDE)",
+    "price": 25000,
+    "image": "https://jutay.co/cdn/shop/files/155copy_5ee14bd9-e597-4c3a-84e0-ee4ad92f1d4c.webp?v=1755864321&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 130,
+    "name": "GG MAJOR LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/159copy_bfeddf92-bdd2-42ac-b8cf-e6738fdd8706.webp?v=1755861565&width=600",
+    "sizes": [40, 41, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 131,
+    "name": "GG MAJOR LOAFER - BROWN",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3823copy.webp?v=1740225859&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 132,
+    "name": "L V MAJOR LOAFER - BLUE",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3797copy.webp?v=1740225757&width=713",
+    "sizes": [40, 41, 42, 43],
+    "type": "major-loafors"
+  },
+  {
+    "id": 133,
+    "name": "FEN DI SQUARED LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3788copy.webp?v=1740225675&width=713",
+    "sizes": [40, 41, 42, 43, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 134,
+    "name": "FEN DI SQUARED LOAFER - BROWN",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3778copy.webp?v=1740225586&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 135,
+    "name": "PR ADA CLASSIC LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3729.webp?v=1740225540&width=713",
+    "sizes": [41, 43, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 136,
+    "name": "DI OR GRANVILLE LOAFER -BROWN WINE",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3813.webp?v=1740225394&width=713",
+    "sizes": [41, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 137,
+    "name": "DI OR GRANVILLE LOAFER - BLACK POLISHED",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3804.webp?v=1740224988&width=713",
+    "sizes": [],
+    "type": "major-loafors"
+  },
+  {
+    "id": 138,
+    "name": "DI OR GRANVILLE JACQUARD LOAFER - BLACK BEIGE",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3851.webp?v=1740224910&width=713",
+    "sizes": [40, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 139,
+    "name": "DI OR GRANVILLE JACQUARD LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3760copy.webp?v=1740224795&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 140,
+    "name": "DI OR HOMME LOGO LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3868.webp?v=1740224448&width=600",
+    "sizes": [40, 42, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 141,
+    "name": "D & G LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/46_2copy.webp?v=1744607846&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 142,
+    "name": "L V LOAFER GLAZED - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3840.webp?v=1746247205&width=600",
+    "sizes": [40, 41, 42, 43, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 143,
+    "name": "L V LOAFER - BLUE",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3742_copy.webp?v=1746247247&width=600",
+    "sizes": [40, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 144,
+    "name": "L V MONOGRAM ECLIPSE LOAFER",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/36_2copy.webp?v=1744607965&width=713",
+    "sizes": [45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 145,
+    "name": "GG BUCKLE LOAFER - BROWN",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3878_copy.webp?v=1746247338&width=600",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "major-loafors"
+  },
+  {
+    "id": 146,
+    "name": "GG BUCKLE LOAFER - BLACK",
+    "price": 44500,
+    "image": "https://jutay.co/cdn/shop/files/IMG_3887_copy.webp?v=1746247429&width=600",
+    "sizes": [40, 41, 42, 43, 44],
+    "type": "major-loafors"
+  },
+  {
+    "id": 147,
+    "name": "GUCC CAP - KHAKI SIDE STRIPES ( HIGH QUALITY) 1149",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/113copy_74f49f22-281f-4d17-9139-5ca2832ed1b7.webp?v=1753334417&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 148,
+    "name": "ALO CAP - BLACK DUO ( HIGH QUALITY) 1148",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/107_copy_68f9a911-6493-44c2-8e75-fb4202b6d6c6.webp?v=1753334355&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 149,
+    "name": "GUC CAP - KHAKI ( HIGH QUALITY) 1147",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/103copy_8650362e-dfe3-4310-980e-a6e72f2b32e9.webp?v=1753334280&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 150,
+    "name": "BALMAIN CAP - BLACK ( HIGH QUALITY) 1146",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/101copy_7944983c-0128-437d-91f1-854fa61c995e.webp?v=1753334223&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 151,
+    "name": "DIO CAP - BLACK (HIGH QUALITY) 1145",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/2copy_2259f1b6-7772-4fb5-8f87-0dbc139ccea7.webp?v=1751363710&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 152,
+    "name": "DIO CAP - LIGHT GREY (HIGH QUALITY) 1144",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/5copy_05b41777-8b59-4ffa-bb10-0b72efb86608.webp?v=1751363683&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 153,
+    "name": "DIO CAP - DARK GREY (HIGH QUALITY) 1143",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/8copy_505d5236-6a17-40ad-802c-be7ba259e738.webp?v=1751363656&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 154,
+    "name": "DIO CAP - (HIGH QUALITY) 1142",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/10copy_eafae472-9173-4f96-86f7-6f9e91d86517.webp?v=1751363609&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 155,
+    "name": "GUCC CAP - BLACK (HIGH QUALITY) 1141",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/13copy_ca06dbde-4108-4729-bf74-1019bbd84b5c.webp?v=1751363579&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 156,
+    "name": "DIO CAP - BLACK ST (HIGH QUALITY) 1140",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/17copy_cc91f667-57c5-4890-b975-4d3ae9c057f3.webp?v=1751363543&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 157,
+    "name": "DIO CAP - GREY BLACK (HIGH QUALITY) 1139",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/20copy_0df87360-1933-4b7c-b42e-b5ac6be6445c.webp?v=1751363502&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 158,
+    "name": "ALO CAP - WHITE DUO (HIGH QUALITY) 1138",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/36copy_4e172f7e-a4a3-4247-8508-4dd86a307d94.webp?v=1751363457&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 159,
+    "name": "ALO CAP - ALL WHITE (HIGH QUALITY) 1137",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/37copy_429e4a75-8faa-4c44-ba0b-03bae95ee65b.webp?v=1751363425&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 160,
+    "name": "HERM CAP - WHITE (HIGH QUALITY) 1135",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/44copy_54859099-9bfa-4c07-b33e-d90df156128d.webp?v=1751363359&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 161,
+    "name": "ALO CAP - ALL BLACK (HIGH QUALITY) 1134",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/46copy_82f9a410-0adf-4b74-8cf9-6091f12125d7.webp?v=1751363313&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 162,
+    "name": "HERM CAP - BLACK (HIGH QUALITY) 1133",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/49copy_19be1f65-dd5f-4643-bae9-17a6802ce7d8.webp?v=1751363275&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 163,
+    "name": "ALO CAP - PINK (HIGH QUALITY) 1132",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/52copy_8f9b22f0-b890-4142-8bec-0b634019ab25.webp?v=1751363251&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 164,
+    "name": "LOUI CAP METAL LOGO - BLACK (HIGH QUALITY) 1131",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/60copy_54256c4a-8fc3-4580-8a7d-dbbdb86bef71.webp?v=1751363179&width=360",
+    "sizes": [],
+    "type": "caps"
+  },
+  {
+    "id": 165,
+    "name": "BB 2 BUCKLES BELT - BROWN (115)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/26551f0a-007d-4323-bd1a-5cbccadbaf11.webp?v=1740376924&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 166,
+    "name": "BB 2 BUCKLES BELT - BLACK (112)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/1c9f6390-1b62-48a2-86f1-3e4329de0820.webp?v=1740376945&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 167,
+    "name": "BB 2 BUCKLES BELT - TAN (111)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/d9f49143-d493-4a0b-80f9-9e87c203e0d8.webp?v=1740376866&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 168,
+    "name": "L V 2 BUCKLES BELT - BROWN (114)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/0f45b508-165b-4323-abd8-5578dabf1c8b.webp?v=1740377039&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 169,
+    "name": "L V 2 BUCKLES BELT - BLACK (113)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/628a05c0-dc90-40f3-b325-408c0f67558a.webp?v=1740376996&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 170,
+    "name": "H 2 BUCKLES BELT - BLACK (110)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/88664494-36ad-4413-87c6-f21127ab6b31.webp?v=1740376824&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 171,
+    "name": "H 2 BUCKLES BELT - BROWN (109)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/d93a43ed-0f07-4922-aa0b-f3d0d00a211d.webp?v=1740376770&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 172,
+    "name": "G G 2 BUCKLES BELT - BROWN (108)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/955bd578-b489-45e5-824d-e1c35f2c2f64copy.webp?v=1740376725&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 173,
+    "name": "G G 2 BUCKLES BELT - BLACK (107)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/175686a1-bed2-4412-a0e0-92be5bc7c0fecopy.webp?v=1740376676&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 174,
+    "name": "G G 2 BUCKLES BELT - MUSTARD (106)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/a21ff3b3-c30d-46e2-bc32-eae236b649edcopy.webp?v=1740376632&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 175,
+    "name": "L V BELT & WALLET - BROWN FL (105)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/623b4232-19d3-4563-b2e9-2a8f3bac2c8e.webp?v=1740376470&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 176,
+    "name": "L V BELT & WALLET - BROWN (104)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/f3f6b1ab-a9ae-4d25-af31-b732001fdf57.webp?v=1740376527&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 177,
+    "name": "L V BELT & WALLET - BLACK (103)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/e4adf2da-3c71-4719-9769-e6cdb37803a7.webp?v=1740376470&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 178,
+    "name": "L V BELT & WALLET - BLACK CHEQ (102)",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/94a24de4-cf55-482c-81fe-5d7c7ad6a915.webp?v=1740376228&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 179,
+    "name": "BOSS N - BROWN",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/79copy_e9281f10-72a2-45dd-b129-ac1f1685f5b8.webp?v=1706702117&width=600",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 180,
+    "name": "BOSS - BROWN",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/65copy_bb82ce3c-cb59-4e82-b479-ce8cbc2734be.webp?v=1706701882&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 181,
+    "name": "RO LEX - BROWN",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/77copy_94e5e707-1c62-4616-aafb-722e6add4661.webp?v=1706701776&width=713",
+    "sizes": [],
+    "type": "belts"
+  },
+  {
+    "id": 182,
+    "name": "ARCHLIGHT - WHITE",
+    "price": 6499,
+    "image": "https://jutay.co/cdn/shop/files/1_copy_33f68daa-6e79-4535-9930-b67f0404dae8.webp?v=1684217948&width=713",
+    "sizes": [38, 39],
+    "type": "sale"
+  },
+  {
+    "id": 183,
+    "name": "ARCHLIGHT - BLACK",
+    "price": 6499,
+    "image": "https://jutay.co/cdn/shop/files/image_2023_05_16T06_25_55_738Z.png?v=1684218647&width=713",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "sale"
+  },
+  {
+    "id": 184,
+    "name": "CONVERSE HIGHS - RED",
+    "price": 3700,
+    "image": "https://jutay.co/cdn/shop/files/9_4c35d5a3-93eb-42da-8538-d322c968b137.webp?v=1702044006&width=713",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 185,
+    "name": "CONVERSE HIGHS - BLUE",
+    "price": 3500,
+    "image": "https://jutay.co/cdn/shop/files/9_186a5c1e-3f6f-44f2-b16b-a75fe494a463.webp?v=1702126522&width=713",
+    "sizes": [37],
+    "type": "sale"
+  },
+  {
+    "id": 186,
+    "name": "AJ 1 LOWS - SMOKE GREY (RED)",
+    "price": 6499,
+    "image": "https://jutay.co/cdn/shop/files/22_copy_4d3e9b1f-7e3a-4ceb-8e05-52e0f6a76d21.webp?v=1749106389&width=713",
+    "sizes": [36, 37],
+    "type": "sale"
+  },
+  {
+    "id": 187,
+    "name": "AJ 1 LOWS - UNC",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/12_copy_b0614dd3-4bf7-48fe-8155-1164d47245c3.webp?v=1749106432&width=713",
+    "sizes": [36, 37, 38, 39, 40],
+    "type": "sale"
+  },
+  {
+    "id": 188,
+    "name": "CONVERSE HIGHS - ALL BLACK",
+    "price": 3500,
+    "image": "https://jutay.co/cdn/shop/files/5_92a9710c-728c-4ef6-b89f-73336faaa57c.webp?v=1702125982&width=600",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 189,
+    "name": "AJ 1 MIDS - SMOKE GREY",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/33_copy_47019053-4cb0-42d8-bbb9-07659f93a270.webp?v=1736506150&width=713",
+    "sizes": [38],
+    "type": "sale"
+  },
+  {
+    "id": 190,
+    "name": "AJ 1 HIGHS - UNC",
+    "price": 5500,
+    "image": "https://jutay.co/cdn/shop/files/25copy_9bd81fe7-db88-4f0d-95ca-d5a968c370f1.webp?v=1716549917&width=713",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 191,
+    "name": "AJ 1 HIGHS - CHICAGOS",
+    "price": 5200,
+    "image": "https://jutay.co/cdn/shop/files/45copy_4ea73c5d-8a4c-4794-be31-c7fb23f07cdd.webp?v=1716550180&width=713",
+    "sizes": [40],
+    "type": "sale"
+  },
+  {
+    "id": 192,
+    "name": "AJ 1 HIGHS - PANDA (PATENT)",
+    "price": 5500,
+    "image": "https://jutay.co/cdn/shop/files/53copy_668cd442-9973-43db-a7d4-46c01debef24.webp?v=1716550261&width=713",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 193,
+    "name": "AJ 1 LOWS - DARK MOCHA ( TRAVIS )",
+    "price": 4999,
+    "image": "https://jutay.co/cdn/shop/files/77copy_cbfd4b73-ee80-4816-a41b-d1653b2a8ef1.webp?v=1716550880&width=713",
+    "sizes": [40],
+    "type": "sale"
+  },
+  {
+    "id": 194,
+    "name": "AJ 1 HIGHS - MIDNIGHT NAVY",
+    "price": 5500,
+    "image": "https://jutay.co/cdn/shop/files/89copy_cf66b2a5-dbba-4d1e-8e21-8e3b112fcab7.webp?v=1716552613&width=600",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 195,
+    "name": "AIRMAX RUN PLUS - BLUE WHITE",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/products/9copy.webp?v=1646221396&width=600",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 196,
+    "name": "AJJ1 HIGHS - FRAGMENT",
+    "price": 4999,
+    "image": "https://jutay.co/cdn/shop/products/5copy_495ef291-ab76-496c-8738-53643f2122c0.webp?v=1665465699&width=600",
+    "sizes": [40],
+    "type": "sale"
+  },
+  {
+    "id": 197,
+    "name": "SKECHERS ULTRA GO - NAVY WHITE",
+    "price": 5200,
+    "image": "https://jutay.co/cdn/shop/products/New-1.webp?v=1679037356&width=600",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 198,
+    "name": "SKECHERS ULTRA GO - CHARCOAL GREY",
+    "price": 5200,
+    "image": "https://jutay.co/cdn/shop/products/13_93d9eb51-5dfb-467c-8fa4-6a28bbfa902a.webp?v=1679037676&width=713",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 199,
+    "name": "CONVERSE LOWS - BLACK WHITE",
+    "price": 4999,
+    "image": "https://jutay.co/cdn/shop/files/14_1346347c-0fa0-4bee-886e-a3cbed2e99cc.webp?v=1702126882&width=713",
+    "sizes": [35],
+    "type": "sale"
+  },
+  {
+    "id": 200,
+    "name": "AJ IV - UNIVERSITY BLUE",
+    "price": 4999,
+    "image": "https://jutay.co/cdn/shop/files/25copy_1090c3e2-7760-447f-a0b4-a2689bde5738.webp?v=1704546900&width=600",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 201,
+    "name": "WAVY - BLACK WHITE",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/products/15copy_d4315376-3c0f-4a26-baf4-4172f7008792.webp?v=1669210309&width=600",
+    "sizes": [36, 39],
+    "type": "sale"
+  },
+  {
+    "id": 202,
+    "name": "AIRFORCE 1 LOUI - GOLD",
+    "price": 6500,
+    "image": "https://jutay.co/cdn/shop/files/21copy_dd7b1bf0-445d-4438-90de-cb1c02e9440b.webp?v=1704543659&width=713",
+    "sizes": [40, 41, 42],
+    "type": "sale"
+  },
+  {
+    "id": 203,
+    "name": "AJ VI - BLACK INFARED",
+    "price": 6999,
+    "image": "https://jutay.co/cdn/shop/files/17_4ce01d54-4c01-442e-a3c0-0922119b5f40.webp?v=1702560520&width=600",
+    "sizes": [],
+    "type": "sale"
+  },
+  {
+    "id": 204,
+    "name": "AJ VI - REFLECTIVES",
+    "price": 6999,
+    "image": "https://jutay.co/cdn/shop/files/41_130fe5bd-9ea0-4478-9281-2af42a297504.webp?v=1702560568&width=713",
+    "sizes": [40],
+    "type": "sale"
+  },
+   {
+    "id": 205,
+    "name": "Comfort Swim - Navy",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/40_copy_691d96fe-0608-490c-aec8-ef85614a203d.webp?v=1749106917&width=713",
+    "sizes": [],
+    "type": "slide",
+    "soldOut": true
+  },
+  {
+    "id": 206,
+    "name": "Comfort Swim - Black White",
+    "price": 4500,
+    "image": "https://jutay.co/cdn/shop/files/31_copy_f056f8d1-d1a2-46ce-892f-8b1b67f841f6.webp?v=1749107411&width=713",
+    "sizes": [],
+    "type": "slide",
+    "soldOut": true
+  },
+  {
+    "id": 207,
+    "name": "SK Go Walk (Velcro) - Grey",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/44copy_e4795bbc-811c-475b-8f19-825f5e59d0cd.webp?v=1729688045&width=600",
+    "sizes": [41, 42, 43, 44],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 208,
+    "name": "SK Go Walk (Velcro) - Green",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/63copy_5b4c7726-e363-4eb0-9f1a-406539c42124.webp?v=1729687848&width=713",
+    "sizes": [40, 42, 43, 44],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 209,
+    "name": "SK Go Walk (Velcro) - Black",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/73copy_36493693-b8a9-4832-b63b-f3b165c89462.webp?v=1729687734&width=713",
+    "sizes": [40, 41, 42, 43],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 210,
+    "name": "SK Go Walk (Velcro) - Navy",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/80copy_b261011f-0cf5-4151-bad5-b84edc87d52f.webp?v=1729687660&width=713",
+    "sizes": [40, 42, 44, 45],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 211,
+    "name": "SK Go Walk - Grey",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/69copy_0828b686-6afd-4be4-9dc8-ba7c9cf336a3.webp?v=1729687505&width=600",
+    "sizes": [40, 41, 43, 44],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 212,
+    "name": "SK Go Walk - Black",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/60_copy.webp?v=1729687375&width=713",
+    "sizes": [40, 41, 42, 43, 44, 45],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 213,
+    "name": "SK Go Walk - Green",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/54copy_a1373791-998e-4034-b541-bf961be2c15e.webp?v=1729686854&width=600",
+    "sizes": [40, 42, 43],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 214,
+    "name": "SK Go Walk - Navy",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/50_copy.webp?v=1729687578&width=600",
+    "sizes": [41, 42, 43, 44, 45],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 215,
+    "name": "NK Victory - Black White",
+    "price": 3499,
+    "image": "https://jutay.co/cdn/shop/files/20copy_a42368c7-15f4-4d20-846a-5f6f2b54f19c.webp?v=1719915738&width=713",
+    "sizes": [],
+    "type": "slide",
+    "soldOut": true
+  },
+  {
+    "id": 216,
+    "name": "NK SB Victory - Blue Green",
+    "price": 3499,
+    "image": "https://jutay.co/cdn/shop/files/15copy_1729108a-5064-44f7-8ed7-46e9ac751ced.webp?v=1719915275&width=600",
+    "sizes": [],
+    "type": "slide",
+    "soldOut": true
+  },
+  {
+    "id": 217,
+    "name": "NK Airmax - All Black",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/62copy_60c61104-aa44-44eb-8d23-a283f0d743e3.webp?v=1719853528&width=600",
+    "sizes": [40],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 218,
+    "name": "NK Victory - All Black",
+    "price": 3500,
+    "image": "https://jutay.co/cdn/shop/files/196copy_9e4dc597-8ebb-42ba-b156-13cd194b0ee1.webp?v=1734348782&width=600",
+    "sizes": [],
+    "type": "slide",
+    "soldOut": true
+  },
+  {
+    "id": 219,
+    "name": "NK SB Victory - Ice Blue",
+    "price": 3500,
+    "image": "https://jutay.co/cdn/shop/files/6copy_5bc2ffc9-2dcf-44ab-8122-fb29567303ad.webp?v=1718274648&width=713",
+    "sizes": [41],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 220,
+    "name": "Puma Softride - Red Black",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/148copy.webp?v=1718274102&width=713",
+    "sizes": [44],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 221,
+    "name": "Puma Softride - Black Grey",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/133copy_b34bf2a8-185b-4829-8afd-457985b87300.webp?v=1718274040&width=600",
+    "sizes": [],
+    "type": "slide",
+    "soldOut": true
+  },
+  {
+    "id": 222,
+    "name": "Round Polo Logo - Blue (JU1)",
+    "price": 3999,
+    "image": "https://jutay.co/cdn/shop/files/65copy.webp?v=1714041605&width=713",
+    "sizes": [40],
+    "type": "slide",
+    "soldOut": false
+  },
+  {
+    "id": 223,
+    "name": "GC TShirt - Gray (JU 127)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0557copy.webp?v=1753677898&width=713",
+    "sizes": ["S", "M", "L", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 224,
+    "name": "Armani Ex TShirt - White Black (JU 128)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0561copy.webp?v=1753677997&width=713",
+    "sizes": ["M", "L", "XL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 225,
+    "name": "BC TShirt - Black (JU 129)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_0559copy.webp?v=1753678071&width=713",
+    "sizes": ["M", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 226,
+    "name": "OW TShirt - White (JU 73)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9302copy_bba6841a-2b9a-4acc-883a-94333474e91f.webp?v=1751458207&width=600",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 227,
+    "name": "FD TShirt - White (JU 72)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9306copy.webp?v=1750539395&width=600",
+    "sizes": ["S", "M", "L", "XL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 228,
+    "name": "HR TShirt - White (JU 70)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9299copy.webp?v=1750539181&width=600",
+    "sizes": ["S", "L", "XL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 229,
+    "name": "CB TShirt - White (JU 69)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9295copy_78a4244d-8814-4ff6-bdcb-05ce7fc3aefe.webp?v=1750538854&width=600",
+    "sizes": ["S", "M", "L", "XL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 230,
+    "name": "DS TShirt - Black (JU 68)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9291copy_f4f55612-a73f-404a-a675-1015c5bcc7da.webp?v=1750538572&width=600",
+    "sizes": ["S", "XL", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 231,
+    "name": "OW TShirt - Green (JU 67)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9288copy.webp?v=1751458218&width=600",
+    "sizes": ["S", "L"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 232,
+    "name": "LV TShirt - White (JU 66)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9284copy_8bc0aefa-7bba-49f0-8ad3-ae40ac50f755.webp?v=1750538377&width=600",
+    "sizes": ["S", "L", "XL", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 233,
+    "name": "OW TShirt - Black (JU 63)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9281_copy.webp?v=1751458223&width=600",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 234,
+    "name": "OW TShirt - Black (JU 62)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9280_copy.webp?v=1751458226&width=600",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 235,
+    "name": "AR TShirt - Black (JU 61)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9278copy.webp?v=1750537895&width=600",
+    "sizes": ["S", "M", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 236,
+    "name": "FD TShirt - Black (JU 60)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9276copy_487d68d4-c19c-4c27-883b-8a00f09da6b5.webp?v=1750537797&width=600",
+    "sizes": ["S", "L", "XL", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 237,
+    "name": "PP TShirt - Black (JU 59)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9275copy_47f90dc5-1015-444e-8269-4d26e3884199.webp?v=1750537707&width=600",
+    "sizes": ["S", "M", "L", "XL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 238,
+    "name": "BM TShirt - Black (JU 58)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9273copy.webp?v=1750537600&width=600",
+    "sizes": ["M", "L", "XXL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 239,
+    "name": "FD TShirt - White (JU 57)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9270copy_35fcb87f-ca03-4340-ab65-20df66b262df.webp?v=1750537484&width=600",
+    "sizes": ["S", "XL"],
+    "type": "t-shirts1"
+  },
+  {
+    "id": 240,
+    "name": "OW TShirt - Black (JU 54)",
+    "price": 5999,
+    "image": "https://jutay.co/cdn/shop/files/IMG_9266_copy.webp?v=1751458230&width=600",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "type": "t-shirts1"
+  }
+]
