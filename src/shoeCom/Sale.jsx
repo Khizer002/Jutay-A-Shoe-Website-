@@ -2,7 +2,7 @@ import React from 'react'
 import './Sale.css'
 import { Link } from 'react-router-dom'
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
-import data from "D:/React huxn/react-demos/src/shoes.json";
+import data from "../shoes.json";
 
 const Sale = () => {
   const sale = data.filter(shoe => shoe.type === "sale");

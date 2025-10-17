@@ -2,7 +2,7 @@ import React from 'react'
 import './Shirts.css'
 import { Link } from 'react-router-dom'
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
-import data from "D:/React huxn/react-demos/src/shoes.json";
+import data from "../shoes.json";
 
 const Shirts = () => {
   const shirt = data.filter(shoe => shoe.type === "t-shirts1");

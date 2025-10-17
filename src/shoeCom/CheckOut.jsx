@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
-import data from "D:/React huxn/react-demos/src/shoes.json";
+import data from "../shoes.json";
 import "./CheckOut.css";
 
 const CheckOut = ({quantity}) => {

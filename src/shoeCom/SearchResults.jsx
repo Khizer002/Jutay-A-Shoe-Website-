@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import data from "D:/React huxn/react-demos/src/shoes.json"
+import data from "../shoes.json"
 import ProductNotFound from './ProductNotFound'
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 

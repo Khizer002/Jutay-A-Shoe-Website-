@@ -3,7 +3,7 @@ import './Home.css'
 import { Link } from 'react-router-dom'
 import Navbar from './Navbar'
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
-import data from "D:/React huxn/react-demos/src/shoes.json";
+import data from "../shoes.json";
 
 const Home = () => {
   const newArrivals = data.filter(shoe => shoe.type === "new-arrival1");

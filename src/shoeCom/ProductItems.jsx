@@ -3,7 +3,7 @@ import './ProductItems.css'
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom';
 import PageNotFound from './PageNotFound';
-import data from "D:/React huxn/react-demos/src/shoes.json"
+import data from "../shoes.json"
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import RemoveIcon from '@mui/icons-material/Remove';
 import AddIcon from '@mui/icons-material/Add';
