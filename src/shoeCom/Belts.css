@@ -14,3 +14,9 @@
 .shoe-card{
     margin: 15px 5px;
 }
+.shoes .shoe-actions .add-cart button{
+    border:"none";
+    outline: "none";
+    text-decoration: "none";
+    background: none;
+}

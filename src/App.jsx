@@ -1,6 +1,6 @@
 import React from "react";
-import { useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
 import Navbar from "./shoeCom/Navbar";
 import Search from "./shoeCom/Search";
 import NavLinks from "./shoeCom/NavLinks";
@@ -21,37 +21,74 @@ import Footer1 from "./shoeCom/Footer1";
 import Footer from "./shoeCom/Footer";
 import Slides from "./shoeCom/Slides";
 import CheckOut from "./shoeCom/CheckOut";
+import Wishlist from "./shoeCom/Wishlist";
+import Context from "./shoeCom/Context";
 
-
-function App() {
+function AppContent() {
   const [searchTerm, setSearchTerm] = useState("");
-  const [cart,setCart]=useState(0);
-  const [quantity, setQuantity] = useState(1)
+  const [cartItems,setcartItems]=useState(()=>JSON.parse(localStorage.getItem("cartItems")) || [])
+  const [cart, setCart] = useState(cartItems.length);
+  const [quantity, setQuantity] = useState(1);
+  const location = useLocation();
+  const [favIds, setFavIds] = useState(() => JSON.parse(localStorage.getItem("favIds")) || []);
+  const [fav,setFav]=useState(favIds.length);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   return (
-    <Router>
+    <Context.Provider value={{ fav, setFav, favIds, setFavIds ,cartItems,setcartItems}}>
       <Navbar />
-      <Search input={searchTerm} setInput={setSearchTerm} count={cart}/>
+      <Search 
+        input={searchTerm} 
+        setInput={setSearchTerm} 
+        count={cart}
+        fav={fav}
+      />
       <NavLinks />
-      {searchTerm.trim() !== "" ? <SearchResults res={searchTerm}  setRes={setSearchTerm}/> :(
+      {searchTerm.trim() !== "" ? (
+        <SearchResults res={searchTerm} setRes={setSearchTerm} />
+      ) : (
         <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route exact path="/men" element={<Men />} />
-        <Route exact path="/women" element={<Women />} />
-        <Route exact path="/new-arrival" element={<NewArrival />} />
-        <Route exact path="/major-loafors" element={<MajorLoafors />} />
-        <Route exact path="/caps" element={<Caps />} />
-        <Route exact path="/wallets" element={<Belts />} />
-        <Route exact path="/card-holders" element={<Card />} />
-        <Route exact path="/t-shirts" element={<Shirts />} />
-        <Route exact path="/flash-sale" element={<Sale />} />
-        <Route exact path="/slides" element={<Slides />} />
-        <Route exact path="/product/:id" element={<ProductItems  count={cart} setCount={setCart} quantity={quantity} setQuantity={setQuantity}/> }/>
-        <Route exact path="/checkout/:id" element={<CheckOut quantity={quantity} />}/>
-        <Route exact path="*" element={<PageNotFound/>} />
-      </Routes>
+          <Route exact path="/" element={<Home />} />
+          <Route exact path="/men" element={<Men />} />
+          <Route exact path="/women" element={<Women />} />
+          <Route exact path="/new-arrival" element={<NewArrival />} />
+          <Route exact path="/major-loafors" element={<MajorLoafors />} />
+          <Route exact path="/caps" element={<Caps />} />
+          <Route exact path="/wallets" element={<Belts/>} />
+          <Route exact path="/card-holders" element={<Card />} />
+          <Route exact path="/t-shirts" element={<Shirts />} />
+          <Route exact path="/flash-sale" element={<Sale />} />
+          <Route exact path="/slides" element={<Slides />} />
+          <Route
+            exact
+            path="/product/:id"
+            element={
+              <ProductItems
+                count={cart}
+                setCount={setCart}
+                quantity={quantity}
+                setQuantity={setQuantity}
+              />
+            }
+          />
+          <Route exact path="/checkout/:id" element={<CheckOut />} />
+          <Route exact path="*" element={<PageNotFound />} />
+          <Route exact path="/wishlist" element={<Wishlist />} />
+        </Routes>
       )}
       <Footer1 />
-      <Footer /> 
+      <Footer />
+    </Context.Provider>
+  );
+}
+
+function App() {
+  return (
+    <Router>
+      <AppContent />
     </Router>
   );
 }

@@ -138,7 +138,7 @@
 
 .backdrop2.show2 {
     opacity: 1;
-    /* pointer-events: auto; */
+    pointer-events: auto;
 }
 
 .oInfo {
