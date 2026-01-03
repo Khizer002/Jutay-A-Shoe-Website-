@@ -16,6 +16,11 @@ const ProductItems = ({ count, setCount, quantity, setQuantity }) => {
     const pro = data.find(shoe => id.toLowerCase() === shoe.name.toLowerCase())
     const { cartItems, setcartItems } = useContext(Context)
 
+    // FIXED: Reset quantity when product changes
+    useEffect(() => {
+        setQuantity(1)
+    }, [id, setQuantity])
+
     useEffect(() => {
         if (pro && pro.sizes && pro.sizes.length > 0) {
             setSize(pro.sizes[0])
