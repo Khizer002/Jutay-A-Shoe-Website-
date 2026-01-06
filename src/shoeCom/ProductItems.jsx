@@ -8,13 +8,18 @@ import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos'
 import RemoveIcon from '@mui/icons-material/Remove'
 import AddIcon from '@mui/icons-material/Add'
 import CloseIcon from '@mui/icons-material/Close'
+import FavoriteIcon from '@mui/icons-material/Favorite'
+import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder'
 import Context from './Context'
 
 const ProductItems = ({ count, setCount, quantity, setQuantity }) => {
     const [selectSize, setSize] = useState(null)
     const { id } = useParams()
     const pro = data.find(shoe => id.toLowerCase() === shoe.name.toLowerCase())
-    const { cartItems, setcartItems } = useContext(Context)
+    const { cartItems, setcartItems, favIds, setFavIds, fav, setFav } = useContext(Context)
+
+    // Check if current product is in favorites
+    const isFavorite = favIds.includes(pro?.id)
 
     // FIXED: Reset quantity when product changes
     useEffect(() => {
@@ -58,6 +63,23 @@ const ProductItems = ({ count, setCount, quantity, setQuantity }) => {
         if (quantity > 1) {
             setQuantity(quantity - 1)
         }
+    }
+
+    // Toggle favorite
+    const toggleFavorite = () => {
+        let updatedFavIds
+        
+        if (isFavorite) {
+            // Remove from favorites
+            updatedFavIds = favIds.filter(favId => favId !== pro.id)
+        } else {
+            // Add to favorites
+            updatedFavIds = [...favIds, pro.id]
+        }
+        
+        setFavIds(updatedFavIds)
+        setFav(updatedFavIds.length)
+        localStorage.setItem("favIds", JSON.stringify(updatedFavIds))
     }
 
     const addToCart = () => {
@@ -190,9 +212,55 @@ const ProductItems = ({ count, setCount, quantity, setQuantity }) => {
             <div className='result'>
                 <div className='image'>
                     <img src={pro.image} alt={pro.name} />
+                    {/* Favorite button on image */}
+                    <button 
+                        className='favorite-btn' 
+                        onClick={toggleFavorite}
+                        style={{
+                            position: 'absolute',
+                            top: '20px',
+                            right: '20px',
+                            background: 'white',
+                            border: 'none',
+                            borderRadius: '50%',
+                            width: '40px',
+                            height: '40px',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            cursor: 'pointer',
+                            boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
+                            transition: 'all 0.3s ease'
+                        }}
+                    >
+                        {isFavorite ? (
+                            <FavoriteIcon style={{ color: 'red', fontSize: '24px' }} />
+                        ) : (
+                            <FavoriteBorderIcon style={{ color: 'grey', fontSize: '24px' }} />
+                        )}
+                    </button>
                 </div>
                 <div className='info'>
-                    <h2>{pro.name.toUpperCase()}</h2>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <h2>{pro.name.toUpperCase()}</h2>
+                        {/* Alternative: Favorite button next to title */}
+                        <button 
+                            onClick={toggleFavorite}
+                            style={{
+                                background: 'none',
+                                border: 'none',
+                                cursor: 'pointer',
+                                padding: '5px'
+                            }}
+                            title={isFavorite ? "Remove from favorites" : "Add to favorites"}
+                        >
+                            {isFavorite ? (
+                                <FavoriteIcon style={{ color: 'red', fontSize: '28px' }} />
+                            ) : (
+                                <FavoriteBorderIcon style={{ color: 'grey', fontSize: '28px' }} />
+                            )}
+                        </button>
+                    </div>
                     <p style={{ color: "rgba(232,78,78,1" }}>Rs. {pro.price}</p>
                     <div className='sizes'>
                         <p>Size: {selectSize === null ? pro.sizes[0] : selectSize}</p>

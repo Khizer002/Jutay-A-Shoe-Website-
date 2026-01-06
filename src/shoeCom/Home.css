@@ -217,6 +217,22 @@
 .size_box a:hover {
     color: white;
 }
+.shoe-card-wrapper {
+    position: relative;
+}
+
+.fav-icon {
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.fav-icon:hover {
+    transform: scale(1.2);
+}
+
+.fav-icon:active {
+    transform: scale(0.9);
+}
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
